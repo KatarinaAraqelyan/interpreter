@@ -17,13 +17,13 @@ struct variables {
 map<string, string> keyWords = {
 	{ "tiv", "variable"   },
 	{ "ket", "variable"   },
-    { "bar", "variable"   },
+        { "bar", "variable"   },
 	{ "gum", "arithmetic" },
 	{ "han", "arithmetic" },
 	{ "baz", "arithmetic" },
 	{ "baj", "arithmetic" },
-    { "ete", "condition"  },
-    { "frfrik","loop"     },
+        { "ete", "condition"  },
+        { "frfrik","loop"     },
 	{ "tpel", "print"     },
 	{  "]", "operator"    },
 };
@@ -45,9 +45,6 @@ void  tokens(string line){
 	 while (getline(obj, word, ' ')) {
        words.push_back(word);
 	}
-// 	 for (const string& i : words) {
-//         cout << i << endl;
-// 	 }
 }
 
 string checkKeyWords(){
@@ -400,50 +397,3 @@ void read_file(string path) {
  
   }
  }
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
