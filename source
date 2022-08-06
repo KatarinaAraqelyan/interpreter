@@ -1,0 +1,27 @@
+bar a = hello
+tiv b = 5
+ket c = 3.14
+tpel Barev
+tpel im a popoxakany havasar e << a
+tpel im b popoxakany havasar e << b
+tpel im c popoxakany havasar e << c
+gum b 5
+gum c 3
+tpel c + 3 = << c
+tpel b + 5 = << b
+han b 1
+tpel b - 1 = << b
+baz b 3
+tpel b * 3 = << b
+baj c 2
+tpel c / 2 = << c
+ete mec b 26 [
+tpel b-i arjeqy havasare e << b
+]
+tpel uraaaa!
+tiv k = 5
+frfrik mec k 0 [
+tpel k-n havasar e << k
+han k 1
+]
+tpel uraaaa! x 2
